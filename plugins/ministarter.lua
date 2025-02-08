@@ -13,7 +13,7 @@ return {
         "            ███████╗██║  ██║███████╗   ██║    ╚████╔╝ ██║██║ ╚═╝ ██║           ",
         "            ╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝     ╚═══╝  ╚═╝╚═╝     ╚═╝           ",
         "                                                                               ",
-        "                      Fear is temporary. Regret+is forever.                    ",
+        "                      Fear is temporary. Regret is forever.                    ",
       }, "\n")
       local pad = string.rep(" ", 22)
       local new_section = function(name, action, section)
